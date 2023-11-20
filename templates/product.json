@@ -1,0 +1,291 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+        "hide_mobile": true
+      }
+    },
+    "main-product": {
+      "type": "main-product",
+      "blocks": {
+        "c7259cb9-7235-4028-b6df-3a68077fed80": {
+          "type": "title",
+          "settings": {
+            "layout": "title-right",
+            "title_size": "h2",
+            "show_vendor_brand": false,
+            "show_vendor_name": false,
+            "show_product_rating": true,
+            "share_whatsapp": true,
+            "share_facebook": true,
+            "share_twitter": true,
+            "share_pinterest": true,
+            "share_messenger": true,
+            "share_email": true,
+            "layout_mobile": "title-bottom"
+          }
+        },
+        "short_description": {
+          "type": "short_description",
+          "settings": {
+            "show_read_more": true
+          }
+        },
+        "variant_selection": {
+          "type": "variant_selection",
+          "settings": {
+            "selection_type": "dropdown",
+            "options": true,
+            "show_variant_images": true,
+            "show_unavailable_variants": true,
+            "enable_selling_plans": true
+          }
+        },
+        "90724a70-740a-4cc9-984c-764e1d76a5bd": {
+          "type": "codes",
+          "settings": {
+            "show_sku": true,
+            "show_barcode": true
+          }
+        },
+        "inventory": {
+          "type": "inventory",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+            "show_tax": true
+          }
+        },
+        "buy_button": {
+          "type": "buy_button",
+          "settings": {
+            "show_amount_selection": true,
+            "show_dynamic_buybutton": true,
+            "preorder": false,
+            "preorder_button_text": "Pre-order",
+            "preorder_label": "",
+            "preorder_label_color_palette": "light_2",
+            "preorder_show_dynamic_buybutton": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "e9431daf-3b99-40f6-89ff-dab164cda2ff": {
+          "type": "spacer",
+          "settings": {
+            "height": 15
+          }
+        },
+        "a7fed37d-e3c6-453e-b19e-0527d7984963": {
+          "type": "custom_html",
+          "disabled": true,
+          "settings": {
+            "custom_html": "<div class=\"product-offer-section\">\n<h4 style=\"margin: 10px 0px 5px;\">Offers<\/h4>\n<\/div>"
+          }
+        },
+        "80e67d89-9369-4ddb-8111-2aa1c36fb500": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>The minimum order value for ordering plants is SEK 3,000<\/p>"
+          }
+        },
+        "ce57c15f-9a2f-4731-8dfe-6ed8eefa9924": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Fler än 54.000 nöjda kunder sedan 2008 ★★★★★<\/p>"
+          }
+        },
+        "52df90b0-c2aa-4ae2-8f31-d18e5a33e088": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Svenskodlade växter sedan 2008 🇸🇪<\/p>"
+          }
+        },
+        "99eb3ffe-d5f6-4378-815d-5633080e61d0": {
+          "type": "usp",
+          "disabled": true,
+          "settings": {
+            "usp": "<p>Snabba och säkra leveranser med Post Nord<\/p>"
+          }
+        },
+        "ee5e9f1c-a80a-4244-950f-03806a509775": {
+          "type": "shipping_timer",
+          "disabled": true,
+          "settings": {
+          }
+        },
+        "fcab993d-e8dd-4181-b76f-d5e8d708972a": {
+          "type": "custom_html",
+          "disabled": true,
+          "settings": {
+            "custom_html": "<div class=\"usp-icon-product-page\">\n\t<div class=\"usp-box-design\">\n\t\t<div class=\"img\">\n\t\t\t<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0761\/8805\/7885\/files\/shipping.png\">\n\t\t<\/div>\n\t\t<div class=\"content\">\n\t\t\t<p>COD available<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"usp-box-design\">\n\t\t<div class=\"img\">\n\t\t\t<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0761\/8805\/7885\/files\/return-exchange.png\">\n\t\t<\/div>\n\t\t<div class=\"content\">\n\t\t\t<p>Return and Exchange<\/p>\n\t\t<\/div>\n\t<\/div>\n\t<div class=\"usp-box-design\">\n\t\t<div class=\"img\">\n\t\t\t<img src=\"\/\/cdn.shopify.com\/s\/files\/1\/0761\/8805\/7885\/files\/free-delivery.png\">\n\t\t<\/div>\n\t\t<div class=\"content\">\n\t\t\t<p>Free Delivery<\/p>\n\t\t<\/div>\n\t<\/div>\n<\/div>"
+          }
+        },
+        "6d02a014-eb27-4c0d-a354-ea0a84f8626d": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "enable_tab": true,
+            "collapse": true,
+            "title": "Delivery times",
+            "icon": "24_hour_clock",
+            "header_image_svg": "",
+            "header_image_width": 25,
+            "text": "<p>When ordering during the delivery period Mar-Oct, your order will be delivered to you within 3-14 days.<\/p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        },
+        "06631741-51c2-4efe-b562-296240acf6dc": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "enable_tab": true,
+            "collapse": true,
+            "title": "Shipping Policy",
+            "icon": "shopping_bag",
+            "header_image_svg": "",
+            "header_image_width": 25,
+            "text": "<p><strong>Lorem Ipsum <\/strong>is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.<\/p>",
+            "page": "",
+            "image_width": 465,
+            "liquid": "",
+            "html": "",
+            "show_contact_form": false
+          }
+        }
+      },
+      "block_order": [
+        "c7259cb9-7235-4028-b6df-3a68077fed80",
+        "short_description",
+        "variant_selection",
+        "90724a70-740a-4cc9-984c-764e1d76a5bd",
+        "inventory",
+        "price",
+        "buy_button",
+        "e9431daf-3b99-40f6-89ff-dab164cda2ff",
+        "a7fed37d-e3c6-453e-b19e-0527d7984963",
+        "80e67d89-9369-4ddb-8111-2aa1c36fb500",
+        "ce57c15f-9a2f-4731-8dfe-6ed8eefa9924",
+        "52df90b0-c2aa-4ae2-8f31-d18e5a33e088",
+        "99eb3ffe-d5f6-4378-815d-5633080e61d0",
+        "ee5e9f1c-a80a-4244-950f-03806a509775",
+        "fcab993d-e8dd-4181-b76f-d5e8d708972a",
+        "6d02a014-eb27-4c0d-a354-ea0a84f8626d",
+        "06631741-51c2-4efe-b562-296240acf6dc"
+      ],
+      "settings": {
+        "show_thumbs_desktop": true,
+        "show_thumbs_mobile": true,
+        "images_layout": "bottom",
+        "show_product_description": true,
+        "product_description_enable_read_more": true,
+        "pros": "",
+        "cons": "",
+        "specifications": "",
+        "product_description_mobile_collapse": true
+      }
+    },
+    "recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "recommended_products_qty": 6,
+        "number_of_items": 5,
+        "text_alignment": "start",
+        "title_size": "h1",
+        "title": "You may also like",
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_qty_selector": true,
+        "enable_color_picker": true,
+        "enable_quick_buy_compact": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 0,
+        "mobile_collapse": false
+      }
+    },
+    "cc9d4e40-dbc3-45ee-89a8-ecb4760d3130": {
+      "type": "section-slideshow",
+      "blocks": {
+        "template--20067057893661__cc9d4e40-dbc3-45ee-89a8-ecb4760d3130-slide-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner-product-page.jpg",
+            "layout": "background",
+            "overlay_opacity": 0,
+            "color_palette": "light_gradient",
+            "button_color_palette": "accent",
+            "text_position": "text-center",
+            "title_size": "h1",
+            "title": "",
+            "text": "",
+            "link_text": "",
+            "link_url": "shopify:\/\/collections\/all",
+            "show_link": false,
+            "title_size_mobile": "mobile-size-18"
+          }
+        }
+      },
+      "block_order": [
+        "template--20067057893661__cc9d4e40-dbc3-45ee-89a8-ecb4760d3130-slide-1"
+      ],
+      "settings": {
+        "height": "m",
+        "width": "wide",
+        "autoplay": false,
+        "autoplay_seconds": 3,
+        "enable_controls": false,
+        "height_mobile": "m",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    },
+    "reviews": {
+      "type": "product-reviews",
+      "disabled": true,
+      "settings": {
+        "text_alignment": "start",
+        "title_size": "h1",
+        "title": "Reviews",
+        "spacing_desktop": 50,
+        "spacing_mobile": 30,
+        "mobile_collapse": false
+      }
+    },
+    "recently-viewed": {
+      "type": "section-recently-viewed-products",
+      "settings": {
+        "number_of_items": 5,
+        "text_alignment": "left",
+        "title_size": "h2",
+        "title": "Recently viewed products",
+        "enable_quick_buy_desktop": true,
+        "enable_quick_buy_drawer": false,
+        "enable_quick_buy_mobile": true,
+        "enable_quick_buy_qty_selector": true,
+        "enable_color_picker": true,
+        "enable_quick_buy_compact": true,
+        "spacing_desktop": 50,
+        "spacing_mobile": 30
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main-product",
+    "recommendations",
+    "cc9d4e40-dbc3-45ee-89a8-ecb4760d3130",
+    "reviews",
+    "recently-viewed"
+  ]
+}

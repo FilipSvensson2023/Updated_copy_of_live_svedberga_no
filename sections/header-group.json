@@ -1,0 +1,93 @@
+{
+  "type": "header",
+  "name": "t:static_sections.header.name",
+  "sections": {
+    "announcement": {
+      "type": "announcement-bar",
+      "disabled": true,
+      "settings": {
+        "color_palette": "black",
+        "text": "<p>Shout out your big announcement here!<\/p>"
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "header-block-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "show_mobile": false,
+            "button_menu": "main-menu",
+            "button_color": "accent"
+          }
+        },
+        "header-block-usp-1": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>Kundeservice: <\/strong>024-200 106 • <strong>Man-Tor: <\/strong>09-17 • <strong>Fre: <\/strong>08-14 • <strong>Lør: <\/strong>09-12<\/p>"
+          }
+        },
+        "header-block-usp-2": {
+          "type": "usp",
+          "settings": {
+            "usp": "<p><strong>E-post: <\/strong>info@svedberga.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "header-block-button-1",
+        "header-block-usp-1",
+        "header-block-usp-2"
+      ],
+      "settings": {
+        "layout": "layout_4",
+        "header_width": "boxed",
+        "top_bar_color": "black",
+        "header_color": "white",
+        "search_color": "white",
+        "menubar_color": "black",
+        "logo": "shopify:\/\/shop_images\/Svedberga_logo_bla_c4eef82c-6d1f-4e8b-81be-0787d3b34578.png",
+        "logo_width": 200,
+        "svg_logo": "",
+        "show_top_bar": true,
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "navbar_menu_item_text": "Contact us",
+        "navbar_menu_item_link": "shopify:\/\/pages\/contact",
+        "enable_usp_slider": false,
+        "enable_usp_slider_arrows": false,
+        "enable_usp_slider_autoplay": false,
+        "usp_slider_autoplay_seconds": 3,
+        "enable_sticky_header": true,
+        "sticky": "sticky-header",
+        "cart_icon": "cart|e903",
+        "cart_icon_color": "black",
+        "menubar_menu": "thujor-copy-menu",
+        "menu_layout": "dropdown",
+        "show_dropdown_images": true,
+        "show_dropdown_images_autofill": false,
+        "menubar_center": true,
+        "menubar_divide_evenly": false,
+        "main_menu_items_clickable": true,
+        "menubar_caps": false,
+        "sale_highlight": true,
+        "menu_font": "body",
+        "menu_items_limit": 5,
+        "enable_socials": true,
+        "extra_image": "shopify:\/\/shop_images\/norwegen_flagge_gif_animated_20160305_1738080921.gif",
+        "extra_image_width": 50,
+        "extra_image_svg": "",
+        "extra_image_link": "",
+        "disable_online_store": false,
+        "logo_width_mobile": 140,
+        "mobile_svg_logo": "",
+        "search_compact_mobile": false
+      }
+    }
+  },
+  "order": [
+    "announcement",
+    "header"
+  ]
+}

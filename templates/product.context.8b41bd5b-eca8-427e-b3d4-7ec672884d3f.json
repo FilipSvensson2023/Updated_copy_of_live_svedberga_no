@@ -1,0 +1,15 @@
+{
+  "parent": "product.json",
+  "context": {
+    "market": "8b41bd5b-eca8-427e-b3d4-7ec672884d3f"
+  },
+  "sections": {
+    "main-product": {
+      "settings": {
+        "product_description_enable_read_more": true
+      },
+      "blocks": {
+      }
+    }
+  }
+}

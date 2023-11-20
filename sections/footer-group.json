@@ -1,0 +1,55 @@
+{
+  "type": "footer",
+  "name": "t:static_sections.footer.name",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "43bbccf2-e4ff-427d-ab9a-32e3b5609602": {
+          "type": "customer_support",
+          "settings": {
+            "title": "Kundeservice",
+            "customer_support_img": "shopify:\/\/shop_images\/Kundtjanst_f84fefe5-79e3-4f9b-a3e7-4d7644f0bc06.png",
+            "customer_support_img_width": 220,
+            "customer_support_offset_right": 30,
+            "customer_support_offset_bottom": 0,
+            "extra_customer_support": "<p><strong>Ring oss.<\/strong><\/p><p>Mån-Fre: 09:00-12:00 13:00-15:00<\/p>",
+            "show_phone_link": true,
+            "show_mail_link": true,
+            "show_whatsapp_link": true,
+            "customer_support_offset_right_mobile": 0,
+            "customer_support_offset_bottom_mobile": 0
+          }
+        },
+        "c275acf1-d94b-4db7-a3cf-c6237d242cb1": {
+          "type": "menu",
+          "settings": {
+            "menu": "sidfotsmeny-xtra",
+            "split_menu": false
+          }
+        }
+      },
+      "block_order": [
+        "43bbccf2-e4ff-427d-ab9a-32e3b5609602",
+        "c275acf1-d94b-4db7-a3cf-c6237d242cb1"
+      ],
+      "settings": {
+        "footer_color": "light",
+        "bottom_color": "black",
+        "bottom_img": "shopify:\/\/shop_images\/AAA.png",
+        "bottom_img_width": 95,
+        "bottom_img_link": "",
+        "bottom_svg_img": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "enable_follow_on_shop": false,
+        "show_payment_methods": true,
+        "spacing_desktop": 0,
+        "spacing_mobile": 0
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
